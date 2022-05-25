@@ -1,2 +1,2 @@
 # Ecoleta-server
-repository for studies on node.js
+Repository for learning on node.js
